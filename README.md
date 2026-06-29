@@ -3,9 +3,9 @@
 > **Неофициальный русский перевод** руководства [**Harness Engineering Guide**](https://github.com/nexu-io/harness-engineering-guide) от **Nexu**.
 > Это перевод, а не первоисточник; одобрения авторов оригинала он не подразумевает.
 
-- 📖 Оригинал: https://github.com/nexu-io/harness-engineering-guide  ·  сайт: https://harness-guide.com
-- 📝 Лицензия: **MIT** (© 2026 Nexu) — см. [LICENSE](LICENSE). Перевод распространяется на тех же условиях.
-- 🤖 Перевод выполнен **Claude Code** (Anthropic).
+-  Оригинал: https://github.com/nexu-io/harness-engineering-guide  ·  сайт: https://harness-guide.com
+-  Лицензия: **MIT** (© 2026 Nexu) — см. [LICENSE](LICENSE). Перевод распространяется на тех же условиях.
+-  Перевод выполнен **Claude Code** (Anthropic).
 
 Практическое руководство по инженерии агентных **харнессов** — runtime-обёрток, которые превращают языковую модель в агента: исполняют инструменты, ведут память, собирают контекст и держат границы безопасности. С реальными примерами кода.
 
